@@ -3,12 +3,12 @@
    karena membuat web yang dibuat responsive dapat membantu dan membuat nyaman bagi orang yang mengunjungi web tersebut. selain itu        dapat mempermudah bagi pengguna selain pc, karena pengguna smartphone/tablet tidak perlu scroll ke kanan atau kiri.
 
 2.Bagaimana cara membuat web dengan responsive? Jelaskan!
-  1.definisikan meta tag untuk desain (untuk mengatur dan menyesuaikan lebar browser dengan perangkat yang digunakan)
-  2.tentukan struktur HTML (terdiri dari header, content, sidebar, dan footer)
-  3.buatlah media query di CSS untuk memerintahkan browser (CSS digunakan untuk mengatur lebar browser mengikuti lebar media yang kita     gunakan. contoh : ketika kita menggunakan smartphone maka kita bisa menyembunyikan sidebar dan mengatur tinggi header menjadi auto.     semua dapat kita atur berdasarkan kebutuhan
+1.definisikan meta tag untuk desain (untuk mengatur dan menyesuaikan lebar browser dengan perangkat yang digunakan)
+2.tentukan struktur HTML (terdiri dari header, content, sidebar, dan footer)
+3.buatlah media query di CSS untuk memerintahkan browser (CSS digunakan untuk mengatur lebar browser mengikuti lebar media yang kita     gunakan. contoh : ketika kita menggunakan smartphone maka kita bisa menyembunyikan sidebar dan mengatur tinggi header menjadi auto.     semua dapat kita atur berdasarkan kebutuhan
 
 3.Apa maksud dari kode "initial- scale=1.0” ?
-  inisiasi zoom pada halaman web tersebut adalah 1
+inisiasi zoom pada halaman web tersebut adalah 1
   
 4.Bagian mana saja yang perlu kita atur/buat responsive dalam sebuah web!
   1.header
